@@ -7,58 +7,39 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **M.E. in Geology**, National Institute for Natural Hazards, Ministry of Emergency Management of China, 2024-2026.
+- **Graduate study in Remote Sensing Science and Technology**, University of Chinese Academy of Sciences, 2023-2024.
+- **B.E. in Geographic Information Science**, China University of Geosciences (Beijing), 2019-2023.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Research Interests
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Geospatial artificial intelligence, remote sensing, deep learning, and geospatial and spatiotemporal data analysis.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Publications
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+1. **Jiahua Zhu**, W. Jiang*, Q. Li, and X. Li. "Amplitude-Phase Spectral Attention with Self-Calibrating Spatial-Frequency Fusion for Robust Remote Sensing Change Detection." *IEEE Geoscience and Remote Sensing Letters*, 2025. [[paper](https://ieeexplore.ieee.org/document/11261854/)]
+2. **Jiahua Zhu**, W. Jiang*, Q. Li, and X. Li. "SCPDNet: A Network for Landslide Detection Combining Deformable Attention and Multi-Scale Fusion in Remote Sensing Imagery." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025. [[paper](https://ieeexplore.ieee.org/document/11247808/)]
+
+# Honors and Awards
+
+- **National Scholarship**, Ministry of Education of China, 2026.
+- Outstanding Student, University of Chinese Academy of Sciences, 2024.
+- Second-Class Scholarship (Top 10%), China University of Geosciences (Beijing), 2023.
+- Finalist, Mathematical Contest in Modeling, 2022 (Top 1% Worldwide), Team Leader.
+- Meritorious Winner, Mathematical Contest in Modeling, 2021, Team Leader.
+- Second Prize, National College Student Mathematical Modeling Competition, Beijing Division, 2021, Team Leader.
+- Second Prize, National College Student Digital Art Design Competition, Beijing Division, 2021, Core Member.
+- Third Prize, National College Student 3D Digital Innovation Competition, Beijing Division, 2020, Core Member.
+
+# Leadership
+
+- Team Leader, Mathematical Contest in Modeling, 2021-2022.
+- Team Leader, National College Student Mathematical Modeling Competition, Beijing Division, 2021.
+
+# Contact
+
+- Email: [zhujiahua818@gmail.com](mailto:zhujiahua818@gmail.com)
+- Academic email: [zhujiahua23@mails.ucas.ac.cn](mailto:zhujiahua23@mails.ucas.ac.cn)
+- GitHub: [github.com/jiahua-zhu](https://github.com/jiahua-zhu)

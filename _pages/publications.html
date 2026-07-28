@@ -5,32 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Amplitude-Phase Spectral Attention with Self-Calibrating Spatial-Frequency Fusion for Robust Remote Sensing Change Detection</h2>
 
-{% include base_path %}
+<p><em>IEEE Geoscience and Remote Sensing Letters</em>, 2025</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p><strong>Jiahua Zhu</strong>, W. Jiang*, Q. Li, X. Li</p>
+
+<p><a href="https://ieeexplore.ieee.org/document/11261854/">[paper]</a></p>
+
+<h2>SCPDNet: A Network for Landslide Detection Combining Deformable Attention and Multi-Scale Fusion in Remote Sensing Imagery</h2>
+
+<p><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em>, 2025</p>
+
+<p><strong>Jiahua Zhu</strong>, W. Jiang*, Q. Li, X. Li</p>
+
+<p><a href="https://ieeexplore.ieee.org/document/11247808/">[paper]</a></p>
 
 
 
