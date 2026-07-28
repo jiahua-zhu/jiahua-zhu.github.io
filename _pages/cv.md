@@ -19,8 +19,8 @@ Geospatial artificial intelligence, remote sensing, deep learning, and geospatia
 
 # Publications
 
-1. **Jiahua Zhu**, W. Jiang*, Q. Li, and X. Li. "Amplitude-Phase Spectral Attention with Self-Calibrating Spatial-Frequency Fusion for Robust Remote Sensing Change Detection." *IEEE Geoscience and Remote Sensing Letters*, 2025. [[paper](https://ieeexplore.ieee.org/document/11261854/)]
-2. **Jiahua Zhu**, W. Jiang*, Q. Li, and X. Li. "SCPDNet: A Network for Landslide Detection Combining Deformable Attention and Multi-Scale Fusion in Remote Sensing Imagery." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025. [[paper](https://ieeexplore.ieee.org/document/11247808/)]
+1. **Jiahua Zhu**, W. Jiang<sup>&#42;</sup>, Q. Li, and X. Li. "Amplitude-Phase Spectral Attention with Self-Calibrating Spatial-Frequency Fusion for Robust Remote Sensing Change Detection." *IEEE Geoscience and Remote Sensing Letters*, 2025. [[paper](https://ieeexplore.ieee.org/document/11261854/)]
+2. **Jiahua Zhu**, W. Jiang<sup>&#42;</sup>, Q. Li, and X. Li. "SCPDNet: A Network for Landslide Detection Combining Deformable Attention and Multi-Scale Fusion in Remote Sensing Imagery." *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2025. [[paper](https://ieeexplore.ieee.org/document/11247808/)]
 
 # Honors and Awards
 
