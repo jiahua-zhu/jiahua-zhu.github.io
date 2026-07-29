@@ -5,7 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-- **National Scholarship**, Ministry of Education of China, 2026.
+- National Scholarship, Ministry of Education of China, 2026.
+- Outstanding Graduate Student Presentation Award, Seismological Society of China, 2025.
 - Outstanding Student, University of Chinese Academy of Sciences, 2024.
 - Second-Class Scholarship (Top 10%), China University of Geosciences (Beijing), 2023.
 - Finalist, Mathematical Contest in Modeling, 2022 (Top 1% Worldwide), Team Leader.

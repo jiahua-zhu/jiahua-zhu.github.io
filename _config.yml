@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jiahua Zhu"
 title_separator          : "-"
 name                     : &name "Jiahua Zhu"
-description              : &description "Academic homepage of Jiahua Zhu, a master's student working on GeoAI, remote sensing, and deep learning."
+description              : &description "Academic homepage of Jiahua Zhu, a master's student working on artificial intelligence, computer vision, and multimodal learning."
 url                      : "https://jiahua-zhu.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

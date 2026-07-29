@@ -6,7 +6,7 @@
 
 # Research Interests
 
-Geospatial artificial intelligence, remote sensing, deep learning, and geospatial and spatiotemporal data analysis.
+Artificial intelligence, computer vision, multimodal learning, visual representation learning, and multimodal feature fusion.
 
 # Publications
 
@@ -15,7 +15,8 @@ Geospatial artificial intelligence, remote sensing, deep learning, and geospatia
 
 # Honors and Awards
 
-- **National Scholarship**, Ministry of Education of China, 2026.
+- National Scholarship, Ministry of Education of China, 2026.
+- Outstanding Graduate Student Presentation Award, Seismological Society of China, 2025.
 - Outstanding Student, University of Chinese Academy of Sciences, 2024.
 - Second-Class Scholarship (Top 10%), China University of Geosciences (Beijing), 2023.
 - Finalist, Mathematical Contest in Modeling, 2022 (Top 1% Worldwide), Team Leader.
