@@ -23,7 +23,7 @@ repository               : "jiahua-zhu/jiahua-zhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile-portrait.jpg"
   name             : "Jiahua Zhu"
   pronouns         : # example: "she/her"  
   bio              : "Master's student, National Institute for Natural Hazards"
@@ -31,6 +31,7 @@ author:
   employer         :
   uri              : # URL
   email            : "zhujiahua818@gmail.com"
+  wechat           : "Ambition8120"
 
   # Academic websites
   academia         : # URL
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jiahua-zhu-1b7592387"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -152,6 +153,7 @@ social:
   name                   : "Jiahua Zhu"
   links:
     - "https://github.com/jiahua-zhu"
+    - "https://www.linkedin.com/in/jiahua-zhu-1b7592387/"
 
 
 # Analytics
