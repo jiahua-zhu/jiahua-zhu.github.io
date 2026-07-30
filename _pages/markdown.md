@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 - (2026), I received the **National Scholarship** from the Ministry of Education of China.
-- (2025), our paper on amplitude-phase spectral attention and spatial-frequency fusion for robust remote sensing change detection was published in **IEEE Geoscience and Remote Sensing Letters**.
-- (2025), our paper on deformable attention and multi-scale feature fusion for landslide detection was published in **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**.
+- (2025), I received the **Outstanding Graduate Student Presentation Award** from the **Seismological Society of China**.
+- (2025), our paper on amplitude-phase spectral attention and spatial-frequency fusion for robust remote sensing change detection was published in **[IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/document/11261854/)**.
+- (2025), our paper on deformable attention and multiscale feature fusion for landslide detection was published in **[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/document/11247808/)**.
 - (2024), I was named an **Outstanding Student** of the University of Chinese Academy of Sciences.

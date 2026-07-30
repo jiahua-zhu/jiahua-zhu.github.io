@@ -26,7 +26,7 @@ author:
   avatar           : "profile-portrait.jpg"
   name             : "Jiahua Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student, National Institute for Natural Hazards"
+  bio              : "Master's student working on AI, computer vision, and multimodal learning"
   location         : "China"
   employer         :
   uri              : # URL
@@ -96,7 +96,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -189,11 +189,32 @@ exclude:
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
   - Rakefile
   - README
   - tmp
+  - talkmap
+  # AcademicPages demo pages not used by this site
+  - _pages/archive-layout-with-content.md
+  - _pages/collection-archive.html
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/category-archive.html
+  - _pages/tag-archive.html
+  - _pages/year-archive.html
+  - files/bibtex1.bib
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
   - vendor
 keep_files:
   - .git
@@ -225,16 +246,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
